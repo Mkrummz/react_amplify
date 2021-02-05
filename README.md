@@ -10,7 +10,7 @@ cd amplifyapp
 
 npm start
 
-# Step 4: Initialize Girhub Repo
+# Step 4: Initialize Github Repo
 
 git init
 
